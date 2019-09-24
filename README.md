@@ -1,2 +1,2 @@
-# ProjetoUsu-rios
+# ProjetoUsuarios
 Projeto de Gerenciamento de Usuários
